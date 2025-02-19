@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/5a0104bd-f073-470b-ae86-478715422319
 ```sh
 uv venv venv
 uv pip install tavily openai streamlit pydantic-ai asyncio
+uv sync (try this one)
 ```
 
 ### Running the Application
