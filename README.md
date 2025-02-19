@@ -21,11 +21,10 @@ https://github.com/user-attachments/assets/5a0104bd-f073-470b-ae86-478715422319
 - Tavily API Key (Get yours from [Tavily](https://tavily.com))
 - OpenAI API Key
 
-### Requirements.txt
+### Requirements
 ```sh
 uv venv venv
-uv pip install tavily openai streamlit pydantic-ai asyncio
-uv sync (try this one)
+uv sync (try this one, or go to pyproject.toml pip install the requirements)
 ```
 
 ### Running the Application
