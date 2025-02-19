@@ -1,7 +1,10 @@
 # Web AI Researcher
 
 ## 🔬 Overview
-Web AI Researcher is a Streamlit-based web application that allows users to perform comprehensive AI-powered research. It utilizes Tavily API for web search and OpenAI GPT-4o for intelligent summarization and structuring of research results.
+Web AI Researcher is a Streamlit-based web application that allows users to perform comprehensive AI-powered research. It utilizes Tavily API for web search and OpenAI GPT-4o for intelligent summarization and structuring of research results. 
+
+## DEMO
+https://github.com/user-attachments/assets/269734b9-ceba-47a9-8604-2293593f81b7
 
 ## 🚀 Features
 - **AI-Powered Research**: Combines web search and AI-generated responses.
@@ -17,18 +20,6 @@ Web AI Researcher is a Streamlit-based web application that allows users to perf
 - Streamlit
 - Tavily API Key (Get yours from [Tavily](https://tavily.com))
 - OpenAI API Key
-
-### Installation
-Clone this repository and install the required dependencies:
-
-```sh
-# Clone the repository
-git clone https://github.com/your-repo/web-ai-researcher.git
-cd web-ai-researcher
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ### Running the Application
 ```sh
