@@ -4,7 +4,10 @@
 Web AI Researcher is a Streamlit-based web application that allows users to perform comprehensive AI-powered research. It utilizes Tavily API for web search and OpenAI GPT-4o for intelligent summarization and structuring of research results. 
 
 ## DEMO
-https://github.com/user-attachments/assets/269734b9-ceba-47a9-8604-2293593f81b7
+
+
+https://github.com/user-attachments/assets/5a0104bd-f073-470b-ae86-478715422319
+
 
 ## 🚀 Features
 - **AI-Powered Research**: Combines web search and AI-generated responses.
