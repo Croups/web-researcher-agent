@@ -30,7 +30,7 @@ uv sync (try this one)
 
 ### Running the Application
 ```sh
-streamlit run app.py
+uv run streamlit run app.py
 ```
 
 ## 📌 Usage
