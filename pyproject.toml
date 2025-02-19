@@ -1,0 +1,18 @@
+[project]
+name = "web-search-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "devtools>=0.12.2",
+    "duckduckgo-search>=7.3.2",
+    "nest-asyncio>=1.6.0",
+    "openai>=1.61.1",
+    "phidata>=2.7.10",
+    "pydantic>=2.10.6",
+    "pydantic-ai>=0.0.24",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.42.1",
+    "tavily-python>=0.5.1",
+]
