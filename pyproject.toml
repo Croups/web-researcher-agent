@@ -9,7 +9,6 @@ dependencies = [
     "duckduckgo-search>=7.3.2",
     "nest-asyncio>=1.6.0",
     "openai>=1.61.1",
-    "phidata>=2.7.10",
     "pydantic>=2.10.6",
     "pydantic-ai>=0.0.24",
     "python-dotenv>=1.0.1",
